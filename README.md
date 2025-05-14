@@ -11,11 +11,6 @@ Este repositório contém algoritmos simples desenvolvidos em **Portugol**, com 
 - 📦 Organização de dados
 - 🔢 Algoritmos matemáticos (como verificação de número primo)
 
-## 📄 Exemplos incluídos
-
-- Verificação de números primos em um vetor
-- Contagem de elementos com base em condições
-- Impressão de resultados formatados
 
 ## 🛠 Requisitos
 
